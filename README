@@ -21,6 +21,7 @@
 
 == Features/Problems
 
+  + Providing a method Numeric#i which takes an imaginary number of the numeric.
 
 == Synopsis
   

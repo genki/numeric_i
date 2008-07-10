@@ -17,7 +17,7 @@ DESCRIPTION       = "Add a method Numeric#i"
 RUBYFORGE_PROJECT = "numeric-i"
 HOMEPATH          = "http://#{RUBYFORGE_PROJECT}.rubyforge.org"
 BIN_FILES         = %w(  )
-VERS              = "1.0.0"
+VERS              = "1.0.1"
 
 REV = File.read(".svn/entries")[/committed-rev="(d+)"/, 1] rescue nil
 CLEAN.include ['**/.*.sw?', '*.gem', '.config']
